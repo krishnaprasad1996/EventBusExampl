@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Software\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_ccbe4999cd90e4e16d6d586a6c7a6078bfb7f541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_2d4e13ca1ef7b26d6cc8485de2d599c311086fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_370f6f5dbcb3c8f7acfa92b5bb0c7309f129716e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_88c0a3696275f9a20db170d09bb4efc8fd25f2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_60285a1bd48fe473efa38e60b495188419e03d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3c20454ca206aad08a5ac765b14964adf4ea3c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_a4b131d5ef5f599ac1816220eec625d26f7539d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_db9c36dcf1e932f0aa6fd5ede0e8da61136b3ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_c022a91cd1c10a60e0e0e73070832f4cd1c2fcb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_e62743a6aa233f40cdc743fa2311fdc1f07df638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_adfa0d2e4ae2ba84bfe8c3d8a704381f5564544b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5880734028739023cb8414a8b0ab26ce8a812b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.birbit\android-priority-jobqueue\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c02cd7cfc325dd4389187571f437e70940e5a763">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.birbit-android-priority-jobqueue-2.0.0_adddbfcc0885979905e441d6134fd789800a27ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b22edcaa28d4a47d33f296b9d8d297fd00dc0ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_c3dd703465eaf482eeff49aab469cdd0b8534270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_40630175cb05e6a37a51353b4e05d800329c5878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\okio-1.8.0_5c5aaaa0049bb79881ff068215bb48ef8de7e996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\krish\Desktop\GsonWinuall\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_43cdbe13666f2583ea98aae71d99f072cc1841d9.jar" />
+    </item>
+
+</items>
